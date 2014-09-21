@@ -194,5 +194,5 @@ K) The final dataset should be   30 subjects and 6 activity (180 rows) and origi
 L) write the data to file merged_data.txt with rownames false
 
 
-## More details on project in Readme 
+ More details on project in Readme 
 
