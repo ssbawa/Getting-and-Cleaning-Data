@@ -58,7 +58,6 @@ L) write the data to file merged_data.txt with rownames false
 6 LAYING
 
 
-4
 
 
 #Note - Refer Code book.
