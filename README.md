@@ -19,7 +19,8 @@ test/y_test.txt
 train/subject_train.txt
 train/X_train.txt
 train/y_train.txt
-## deatails on files in code document and below.
+
+* deatails on files in code document and below.
 
 D) After reading merge the respective files of train and test (X, Y, Subject) by rbind as we dont have keys. The number of columns should remain same and rows should get appended.
 
@@ -60,4 +61,4 @@ L) write the data to file merged_data.txt with rownames false
 4
 
 
-Note - Refer Code book.
+#Note - Refer Code book.
